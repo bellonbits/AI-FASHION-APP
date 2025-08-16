@@ -67,4 +67,4 @@ MIT License - free to use and modify.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Peter Gatitu Mwangi]
